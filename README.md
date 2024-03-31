@@ -13,7 +13,7 @@
 + 📈 Working on learning:
   + Blockchain: Rust
   + Container: Docker, Kubernetes
-  + ML / AI: LangChain / CreateLlama / TaskGen
+  + ML / AI: LangChain / LlamaIndex / TaskGen
   + GameDev: Unreal Engine 5
 
 + 💭 Ask me anything! [Get in touch](https://linktr.ee/lionel.deng)
