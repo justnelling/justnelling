@@ -16,7 +16,7 @@
   + ML / AI: LangChain / CreateLlama / TaskGen
   + GameDev: Unreal Engine 5
 
-+ 💭 Ask me anything! [Send me an email](mailto:erdua.regen@gmail.com)
++ 💭 Ask me anything! [Get in touch](https://linktr.ee/lionel.deng)
 <!--
 **magnumdatura/magnumdatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
