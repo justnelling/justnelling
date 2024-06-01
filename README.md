@@ -11,7 +11,6 @@
 + 🌱 Currently working to improve my Data Structures & Algorithms🌻
 
 + 📈 Working on learning:
-  + Blockchain: Rust
   + Container: Docker, Kubernetes
   + ML / AI: LangChain / LlamaIndex / TaskGen
   + GameDev: Unreal Engine 5
