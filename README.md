@@ -1,19 +1,8 @@
 ### Hi there 👋
 ---
-+ ❤️‍🔥 My name is Lionel Deng. I'm an artist and musician turned software dev! Strive to bridge the gaps between programmatic and creative thinking, and build haptic software that proposes new ways of interfacing with reality. ❤️‍🔥
-+ Currently looking for work as a fullstack developer.
-
-+ 🦾 Work in the following stacks:
-  + ReactJS, ThreeJS, NextJS, NodeJS, TailwindCSS, MaterialUI
-  + Firebase, MongoDB, ExpressJS
-  + Python, Flask, Django, Tensorflow, PyTorch, Pandas, NumPy, PostgreSQL, SQLite
-    
-+ 🌱 Currently working to improve my Data Structures & Algorithms🌻
-
-+ 📈 Working on learning:
-  + Container: Docker, Kubernetes
-  + ML / AI: LangChain / LlamaIndex / TaskGen
-  + GameDev: Unreal Engine 5
++ ❤️‍🔥 My name is Lionel Deng. I am a Python developer with fullstack experience who is actively transitioning into AI engineering.
+With a background in webdev, data science, and Python, I am currently building AI SAAS products of my own. I'm excited by the applications of vector embeddings and LLMs for perfect recall (never lose an idea), idea networking (proliferate that idea) and digital knowledge twins (a digital agent tailored to iterate and execute ideas) based on users' online histories, prompts and improved tool use.
+I believe we are on the cusp of the greatest digital revolution and I am devoted to learning all I can about the coming Intelligence Age, powered by neural networks and transformers.
 
 + 💭 Ask me anything! [Get in touch](https://linktr.ee/lionel.deng)
 <!--
