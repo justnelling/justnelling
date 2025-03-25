@@ -2,11 +2,11 @@
 ---
 + ❤️‍🔥 My name is Lionel Deng.
 
-+ ⚡ I am a Python developer with fullstack experience who is actively transitioning into AI engineering.
-+ 🌱 With a background in webdev, data science, and Python, I am currently building AI SAAS products of my own. I'm excited by the applications of vector embeddings and LLMs for perfect recall (never lose an idea), idea networking (proliferate that idea) and digital knowledge twins (a digital agent tailored to iterate and execute ideas) based on users' online histories, prompts and improved tool use.
-+ 🔭 I believe we are on the cusp of the greatest digital revolution and I am devoted to learning all I can about the coming Intelligence Age, powered by neural networks and transformers.
++ ⚡ Forging the future of haptic software, where intuition meets code. I'm building AI that anticipates, learns, and evolves alongside you – digital knowledge twins that amplify your potential, and experiences that re-imagine connection. 
++ 🌱 Driven by the transformative power of neural networks and vector embeddings, I'm building apps for perfect recall, idea proliferation, and a new era of digital intimacy. 
++ 🔭 We're entering the Intelligence Age. Let's build something extraordinary.
 
-+ 💭 Ask me anything! [Get in touch](https://linktr.ee/lionel.deng)
++ 💭 Let's work together! [Get in touch](https://linktr.ee/lionel.deng)
 <!--
 **magnumdatura/magnumdatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
